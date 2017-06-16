@@ -16,3 +16,5 @@ Current speed score 100
 
 * Minify HTML, CSS, JS
 * Seperate the mobile css to ensure even smaller loading.
+* Remove uneccesary classes from the grid css. Use UnCSS in grunt [Addy Osmani Github] (https://github.com/addyosmani/grunt-uncss)
+
